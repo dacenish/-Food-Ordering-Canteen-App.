@@ -8,6 +8,13 @@ RIMT University Canteen Mobile Application
 <img src="https://github.com/dacenish/-Food-Ordering-Canteen-App./assets/82972335/afaec305-a168-4b6d-9106-d593c306de9d" width="200" height="444.44">
 <img src="https://github.com/dacenish/-Food-Ordering-Canteen-App./assets/82972335/97b5ee9a-be70-43a7-80e5-e79d73b3d48a" width="200" height="444.44">
 
+<img src="https://github.com/dacenish/-Food-Ordering-Canteen-App./assets/82972335/82230264-32ed-464b-8539-25927d43ce0b" width="200" height="444.44">
+
+<img src="https://github.com/dacenish/-Food-Ordering-Canteen-App./assets/82972335/82230264-32ed-464b-8539-25927d43ce0b" width="200" height="444.44">
+
+<img src="https://github.com/dacenish/-Food-Ordering-Canteen-App./assets/82972335/9bbafd76-3e8b-4656-9de0-a19d27635980" width="200" height="444.44">
+
+
 
 
 
