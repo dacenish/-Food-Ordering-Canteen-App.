@@ -1,4 +1,4 @@
-# rimt
+# Food Ordering Canteen App
 
 A new Flutter project.
 
